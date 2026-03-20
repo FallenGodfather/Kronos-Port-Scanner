@@ -10,7 +10,7 @@ A powerful yet beginner-friendly network port scanner for penetration testing an
 
 **Hassan Ali**  
 GitHub: [@FallenGodfather](https://github.com/FallenGodfather)  
-MSc Artificial Intelligence @ Brandenburg Technical University, Germany
+MSc Cyber-Security @ Brandenburg Technical University, Germany
 
 ---
 
